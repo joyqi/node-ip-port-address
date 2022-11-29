@@ -1,20 +1,18 @@
 {
-  "name": "typescript-module-template",
+  "name": "node-ip-port-address",
   "keywords": [],
-  "author": "",
+  "author": "joyqi",
   "license": "",
-  "description": "",
+  "description": "Parse IP address with port number into AddressInfo struct.",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/joyqi/node-ip-port-address.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/joyqi/node-ip-port-address#readme",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/joyqi/node-ip-port-address/issues"
   },
-
   "version": "0.0.1",
-
   "main": "lib/index.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
