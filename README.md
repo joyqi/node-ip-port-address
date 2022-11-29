@@ -1,4 +1,4 @@
-# node-ip-port-address
+# ip-port-address
 
 Parse IP address and port from a string.
 
