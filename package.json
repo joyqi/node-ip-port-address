@@ -22,9 +22,14 @@
   },
   "devDependencies": {
     "@types/mocha": "latest",
+    "@types/node": "^18.11.9",
     "assert": "latest",
     "mocha": "latest",
     "ts-node": "latest",
     "typescript": "latest"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "pnpm": ">=6.0.0"
   }
 }
